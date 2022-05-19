@@ -1,0 +1,37 @@
+.ProcessRegistration{
+  
+  
+  #label{
+    height: 25px;
+    width: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+  }
+
+
+  .process{
+    margin-left: 40px;
+
+
+  }    
+  .subprocess{
+    margin-left: 80px;
+  }    
+  .version{
+    display: flex;
+    flex-direction: row;
+    margin-left: 120px;
+  }
+
+  .button{
+    margin: 10px 40px;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(0, 174, 255);
+    width: 50px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+  }
+}
